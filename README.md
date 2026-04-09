@@ -17,6 +17,8 @@ Automated Sales Dashboard analyzing over 1,000+ rows of raw transaction data. Bu
 
 * Trend Analysis: Identified significant sales spikes during specific quarters, aiding in inventory planning.
 
+### 🎥 Project Demo & Walkthrough
+You can watch the full high-resolution demo and technical walkthrough of this dashboard on my LinkedIn:
+ [**Watch Demo on LinkedIn**](https://www.linkedin.com/posts/rehan-fazal-1b02593b4_i-recently-worked-on-a-sales-performance-ugcPost-7447740249050357760-qJKj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGUg6tQBAsabyhIbzhtiGErS-5GyHW1NwGU)
 * Regional Performance: Mapped out top-performing zones to optimize marketing spend.
 
-* Product Profitability: Highlighted high-margin products vs. high-volume products for better strategic foc000
