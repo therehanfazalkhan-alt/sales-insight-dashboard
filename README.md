@@ -13,7 +13,7 @@ Automated Sales Dashboard analyzing over 1,000+ rows of raw transaction data. Bu
 * Components: Pivot Tables, Slicers, and dynamic charts
 
 **Dashboard Preview**
-![https://github.com/therehanfazalkhan-alt/sales-insight-dashboard/blob/main/Screenshot%202026-04-08%20235649.png]
+- <a href= "https://github.com/therehanfazalkhan-alt/sales-insight-dashboard/blob/main/Screenshot%202026-04-08%20235649.png">Sales-insight-dashboard</a>
 
 * Trend Analysis: Identified significant sales spikes during specific quarters, aiding in inventory planning.
 
